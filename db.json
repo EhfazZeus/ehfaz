@@ -1,11 +1,11 @@
 {
   "user": [
     {
-      "id": "ehfaz_siddiquee",
-      "name": "Ehfaz Siddiquee",
-      "password": "123",
-      "email": "ehfazsiddiquee@gmail.com",
-      "country": "Bangladesh",
+      "id": "admin",
+      "name": "Admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "country": "usa",
       "gender": "male",
       "role": "admin"
     },
@@ -44,7 +44,16 @@
       "country": "Bangladesh",
       "gender": "company",
       "role": "user"
-    }
+    },
+  {
+    "id": "Test",
+    "name": "Test",
+    "password": "test",
+    "email": "iclixxltd@gmail.com",
+    "country": "usa",
+    "gender": "male",
+    "role": "admin"
+  }
   ],
   "roleaccess": [
     {
